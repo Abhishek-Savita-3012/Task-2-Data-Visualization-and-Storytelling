@@ -8,6 +8,12 @@ The goal was to create meaningful visualizations that transform raw sales data i
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](Screenshots/Dashboard.png)
+
+---
+
 ## 🎯 Project Objectives
 
 - Analyze overall sales performance and key business KPIs.
@@ -248,6 +254,21 @@ The goal was to create meaningful visualizations that transform raw sales data i
 - Enables year-over-year performance evaluation.
 - Supports forecasting and strategic planning.
 - Identifies growth opportunities and improvement areas.
+
+---
+
+## 📖 Data Storytelling
+
+The dashboard tells the story of mobile sales performance by analyzing:
+
+- Overall business growth
+- Regional sales contribution
+- Product performance
+- Customer purchasing behavior
+- Payment preferences
+- Year-over-year performance trends
+
+The visualizations help convert raw sales data into actionable business insights that support strategic decision-making.
 
 ---
 
